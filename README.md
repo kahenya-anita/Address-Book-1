@@ -3,20 +3,20 @@
 ## Authors
 
 [kahenya-anita](https://github.com/kahenya-anita)
-[rosekairu] https://github.com/rosekairu)
+[rosekairu] (https://github.com/rosekairu)
 
 ## Description
 
 This address book is great is great for keeping track of our contacts' full names and their addresses
 
 ## Live Page 
-*[https://rosekairu.github.io/Address-Book]
+*[https://kahenya-anita.github.io/Address-Book-1]
 
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/rosekairu/Address-Book.git```
+* git clone ```https://github.com/kahenya-anita/Address-Book-1.git```
 
 * cd Address-Book
 
@@ -56,7 +56,7 @@ This address book is great is great for keeping track of our contacts' full name
 
 ## License
 
-* Licenced under [MITLICENCE] (LICENCE).
+* Licenced under [MITLICENCE](LICENCE).
 * Copyright (c) 2020 
   **ANITA KAHENYA**
   **ROSE KAIRU**
